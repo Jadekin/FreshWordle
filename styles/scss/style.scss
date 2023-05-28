@@ -44,14 +44,14 @@ header {
   display: flex;
   font-weight: 800;
 
-  [data-status='rightSpot'] {
+  &[data-state='rightSpot'] {
     background-color: #0075dd;
   }
-  [data-status='wrongSpot'] {
+  &[data-state='wrongSpot'] {
     background-color: #ffeeb9;
     color: #001b40;
   }
-  [data-status='notInWord'] {
+  &[data-state='notInWord'] {
     background-color: grey;
   }
 }

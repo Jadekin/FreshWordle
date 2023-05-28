@@ -44,14 +44,14 @@ header {
   display: flex;
   font-weight: 800;
 }
-.tile [data-status=rightSpot] {
+.tile[data-state=rightSpot] {
   background-color: #0075dd;
 }
-.tile [data-status=wrongSpot] {
+.tile[data-state=wrongSpot] {
   background-color: #ffeeb9;
   color: #001b40;
 }
-.tile [data-status=notInWord] {
+.tile[data-state=notInWord] {
   background-color: grey;
 }
 
