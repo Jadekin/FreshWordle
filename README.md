@@ -28,4 +28,4 @@ Start playing and enjoy the FreshWordle experience!
 
 [MIT](https://github.com/Jadekin/FreshWordle/blob/main/LICENSE). Code is mine, but obviously Wordle was created by (the amazing) [Josh Wardle](https://github.com/powerlanguage) and the game is now property of The New York Times.
 
-Dictionary source: [@scholtes](https://gist.github.com/scholtes/94f3c0303ba6a7768b47583aff36654d)
+WordBank source: [@scholtes](https://gist.github.com/scholtes/94f3c0303ba6a7768b47583aff36654d).
