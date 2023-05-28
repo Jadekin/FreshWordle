@@ -1,5 +1,7 @@
 # FreshWordle
 
+<img src="README/screenshot.png" alt="Wordle clone inspired by words common in the FreshBooks industry" width="800">
+
 FreshWordle is a word game that combines the fun of "Wordle" with words related to FreshBooks. Test your vocabulary and guessing skills as you try to guess the hidden word within a limited number of attempts. It's a great way to challenge yourself and have fun with FreshBooks-themed (accounting and business related) word puzzles.
 
 Disclaimer: This is a project to practice a little JavaScript, not sponsored by FreshBooks or anything like that. Made with ♥️.
