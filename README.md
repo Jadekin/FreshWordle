@@ -1,6 +1,8 @@
 # FreshWordle
 FreshWordle is a word game that combines the fun of "Wordle" with words related to FreshBooks. Test your vocabulary and guessing skills as you try to guess the hidden word within a limited number of attempts. It's a great way to challenge yourself and have fun with FreshBooks-themed (accounting related) word puzzles.
 
+This is a project to practice a little JavaScript, not sponsored by FreshBooks or anything like that. Made with ♥️.
+
 ## Features
 - FreshBooks-themed word puzzles: Enjoy a collection of word puzzles related to FreshBooks and the business model. 
 
